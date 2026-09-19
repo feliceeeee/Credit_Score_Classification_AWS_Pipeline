@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eu
 
-GIT_REPO="https://github.com/feliceeeee/MD_AWS_CreditScore.git"
+GIT_REPO="https://github.com/feliceeeee/Credit_Score_Classification_AWS_Pipeline.git"
 SUBFOLDER=""
 APP_FILE="app_streamlit.py"
 ENDPOINT_NAME="credit-score-endpoint"
